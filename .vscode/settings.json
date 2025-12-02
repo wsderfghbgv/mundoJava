@@ -1,0 +1,9 @@
+{
+    "code-runner.executorMap": {
+        "java": "cd $workspaceRoot && javac -d target\\classes -sourcepath src\\main\\java src\\main\\java\\modelo\\CafeEspecialidad.java src\\main\\java\\modelo\\TicketTransporte.java src\\main\\java\\modelo\\PerfilRedSocial.java && javac -d target\\classes -sourcepath src\\main\\java -cp target\\classes src\\main\\java\\$fileName && java -cp target\\classes $fileNameWithoutExt"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true
+}
+
