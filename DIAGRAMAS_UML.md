@@ -74,6 +74,19 @@ Este documento contiene los diagramas UML de las tres clases encapsuladas del pr
 
 ---
 
+## 4. Diagrama UML - Main
+
+┌──────────────────────────────────────┐
+│    Main                              │
+├──────────────────────────────────────┤
+│                                      │
+├──────────────────────────────────────┤
+│ + main(String[] args): void          │
+└──────────────────────────────────────┘
+```
+
+---
+
 ## Notas sobre la Notación UML
 
 ### Símbolos de Visibilidad:
